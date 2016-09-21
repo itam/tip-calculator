@@ -1,27 +1,44 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1AF04CC06E10DDEE465EF49F01008D6CDEF3A70E+++F7FA125",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905" : 0
+    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++F33E0E9" : 0,
+    "1AF04CC06E10DDEE465EF49F01008D6CDEF3A70E+++F7FA125" : 0,
+    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++CAB83B8" : 0,
+    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++8D9AB7E" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E8238508-BAD5-48CB-AA69-78F365056A41",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905" : ".."
+    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++F33E0E9" : "..",
+    "1AF04CC06E10DDEE465EF49F01008D6CDEF3A70E+++F7FA125" : "tipCalculator2\/",
+    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++CAB83B8" : "",
+    "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++8D9AB7E" : ".."
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "tips",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "tips.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:itam\/tip-calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1AF04CC06E10DDEE465EF49F01008D6CDEF3A70E+++F7FA125"
+    },
+    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:itam\/tipCalculator.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++8D9AB7E"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/linai\/tictactoe.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++CAB83B8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/linai\/tictactoe.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F47DA6FF4EF6CB7B7E287E5353368B0DB892905+++F33E0E9"
     }
   ]
 }
